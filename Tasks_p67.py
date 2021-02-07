@@ -21,3 +21,4 @@ games = int(input("Компьютерные игры: "))
 total = car + rent + jet + gifts + food + staff + guru + games
 print("\nОбщая сумма:", total)
 input("\n\nНажмите Enter, чтобы выйти.")
+
